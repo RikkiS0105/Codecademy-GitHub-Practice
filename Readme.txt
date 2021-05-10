@@ -37,8 +37,7 @@ git diff HEAD --------> Shows difference between repo file and last committed
 file (be it in repo or in staging area). 
 
 GitHub doesnt have Automatic Version numbers for files. Only commit numbers. 
-However, 
-if that is the case, you cannot get the difference between lets say commit 2
+However, if that is the case, you cannot get the difference between lets say commit 2
 and commit 5, only git diff between last commit. So you can set github to do
 Auto Version number. I dont need this for now - but once I finish learning Git
 on CodeCademy would be a good idea to revisit and install auto version
