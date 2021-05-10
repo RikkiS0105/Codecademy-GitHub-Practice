@@ -66,4 +66,6 @@ stage and commit area - I neccessarily have to change my local
 repo version and then stage that file and then commit it (replacing the one
 already in stage and commit areas)?
 
+Now checking out git reset to unstage(remove from commit) a file staged for
+commit
 
