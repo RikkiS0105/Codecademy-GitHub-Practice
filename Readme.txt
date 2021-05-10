@@ -81,4 +81,11 @@ It worked - First reset from the commit you want to reset to. This only
 resets till the staging area/for commit. Use Checkout to change the file
 in the working directory to the one pulled from commit. 
 
+But it seems to work only if you go one step down. After that, if you
+try and recommit the file to GitHub it gives you an error that - 
+
+'Failed to push .....rejected because the tip of your current branch is 
+behind its remote counterpart. Integrate (e.g. git push etc...) and try
+again.'
+
 
