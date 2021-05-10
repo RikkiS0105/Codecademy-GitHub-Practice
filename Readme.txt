@@ -45,3 +45,25 @@ numbers depending on my preferences.
 
 Now we are trying out Git Checkout. 
 
+It worked. We typed a line - We are trying to make this line disappear.
+
+On typing git checkout HEAD Readme.txt - the last version of the file
+stored on GitHub replaced the file in my local repository.
+
+After we finish this section on Codecademy Learn Git - have to run an 
+experiment to see what happens when
+
+1. I modify a file, stage it, commit it but dont push it yet.
+2. Modify a file and stage it but no commit. 
+3. Modify a file but no stage or commit. 
+
+What happens when I do git checkout HEAD filename at that point. 
+
+Does it change all the versions of the file - in local repo, in
+stage area and ready for commit area? Or only on Local repo. If 
+only on local repo that means if I need to change the files in 
+stage and commit area - I neccessarily have to change my local
+repo version and then stage that file and then commit it (replacing the one
+already in stage and commit areas)?
+
+
