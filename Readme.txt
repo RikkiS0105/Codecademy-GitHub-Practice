@@ -24,4 +24,15 @@ modification on the file (Unless a new one is made) versus the file already in
 working directory but it is able to track the difference between the last file staged
 for commit. 
 
+Now lets try difference between repo/committed files. 
+
+git diff HEAD --------> Shows difference between repo file and last committed file
+(be it in repo or in staging area). 
+
+so, in conclusion - 
+
+git diff        -----> Shows difference between file modified but not staged. 
+git diff --staged    ------> Shows difference between file modified and staged. 
+git diff HEAD --------> Shows difference between repo file and last committed file
+(be it in repo or in staging area). 
 
