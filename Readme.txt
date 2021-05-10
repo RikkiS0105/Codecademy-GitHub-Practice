@@ -43,4 +43,5 @@ Auto Version number. I dont need this for now - but once I finish learning Git
 on CodeCademy would be a good idea to revisit and install auto version
 numbers depending on my preferences. 
 
+Now we are trying out Git Checkout. 
 
