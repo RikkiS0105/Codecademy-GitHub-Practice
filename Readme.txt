@@ -69,3 +69,12 @@ already in stage and commit areas)?
 Now checking out git reset to unstage(remove from commit) a file staged for
 commit
 
+Syntax for that is - 
+
+git reset HEAD filename
+
+Now checking out git reset to stage to last commit for which syntax is 
+
+git reset commit-SHA (first 7 characters of commit you want to reset to). 
+
+
