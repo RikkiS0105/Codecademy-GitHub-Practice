@@ -77,4 +77,8 @@ Now checking out git reset to stage to last commit for which syntax is
 
 git reset commit-SHA (first 7 characters of commit you want to reset to). 
 
+It worked - First reset from the commit you want to reset to. This only
+resets till the staging area/for commit. Use Checkout to change the file
+in the working directory to the one pulled from commit. 
+
 
