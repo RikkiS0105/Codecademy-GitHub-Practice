@@ -167,3 +167,7 @@ git push origin :branch_name
 
 Where origin is the original (remote) directory where the branch was cloned
 from.
+
+Trying out cloning, fetch and merge
+
+
