@@ -150,3 +150,20 @@ even.
 
 So, what happened here - did the push request overwrite my previous
 commit on the Learning_Branch?
+
+For deleting branches on local repo - 
+
+checkout to different branch and then 
+
+git branch -d branch_name
+
+BUT to delete from GitHub - 
+____________________________________
+git push origin --delete branch_name
+
+OR 
+
+git push origin :branch_name
+
+Where origin is the original (remote) directory where the branch was cloned
+from.
