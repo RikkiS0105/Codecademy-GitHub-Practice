@@ -107,3 +107,7 @@ File with 'Add this line to master branch xxxx' committed to GitHub Repo
 
 Anyway, adding this line to the Learning_Branching Branch.
 Learning_Branching
+
+All the jibber jabber typed in the Learning_Branching readme.txt file does
+not appear here.
+
