@@ -107,3 +107,18 @@ File with 'Add this line to master branch xxxx' committed to GitHub Repo
 
 Anyway, adding this line to the Learning_Branching Branch.
 Learning_Branching
+
+After resolving conflicts - committed the readme file to main. So, merge
+conflict resolved. 
+
+Then merged main to Learning_Branching. 
+
+When I tried to add and then commit - git status kept telling me nothing 
+to add or commit. I pushed to GitHub anyway and then checked - both main 
+and Learning_Branching versions of the file Readme.txt are the same.
+
+Now - lets try - if I did the whole same process again - and only did merge -
+on the learning_branch(after committed conflict resolved version to main) - 
+would my conflict resolved changes appearing on main branch also show up on
+the learning_branching branch. 
+
