@@ -176,3 +176,17 @@ Test 2
 
 Test 2 - Phase 2
 
+Got the reset to previous commit and then push to GitHub to finally work.
+
+Step 1 - git reset commit-SHA (7 digit commit code)
+Step 2 - git checkout HEAD filename
+Step 3 - make changes to whatever file needs to be changed.
+Step 4 - Add and then commit file(IMPORTANT step because if not done, when
+you try to reset and merge the latest commit, it will not merge till this
+has been committed). 
+step 5 - Reset latest commit
+Step 6 - merge latest commit with working directory file - will show merge
+conflict - resolve same. 
+Step 7 - once resolved add, commit, push === success!!!!
+
+
