@@ -96,6 +96,8 @@ latest you get the 'Failed to push .....' error.
 Now learning branching in GitHub. Lets see if able to resolve the earlier
 push conflict using branching.
 
-Line to enter to Master Branch
+Line to enter to Master Branch xxxx
+
+
 
 
