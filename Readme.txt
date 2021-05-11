@@ -125,3 +125,28 @@ on the learning_branch(after committed conflict resolved version to main) -
 would my conflict resolved changes appearing on main branch also show up on
 the learning_branching branch. 
 
+Above did not work - even if I did merge - no changes showing up on 
+GitHub. I tried pushing without adding and commiting but that did not 
+work either - nothing got pushed. Then finally went thru the process of 
+adding, committing and pushing again. While adding and committing - it 
+kept showing no files added or ready to commit. But when I pushed - it 
+worked and my GitHub repository got updated - main and Learning_Branch 
+was the same.
+
+BUT something really interesting happened. - 
+
+1. When I committed to the main branch - I had 22 commits. 2. Till this 
+point - the learning_branching branch was still showing the unmerged 
+file(I didnt pay much attention to this assuming a new commit would be 
+made when I committed the conflict resolved file to the 
+Learning_Branching branch - so I am not sure but I think the changes 
+were still not reflecting). 3. Anyway, what I am sure of is that the 
+number of commits remained 22 even after I now committed the merged 
+resolved conflict file to the Learning_Branching branch as well. 4. This 
+is in line with not being able to add or commit anything. BUT after add, 
+commit and push - there was only one commit for the updated file and 
+Learning_Branch and Learning_Branching shows me both main and branch are 
+even. 
+
+So, what happened here - did the push request overwrite my previous
+commit on the Learning_Branch?
