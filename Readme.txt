@@ -89,3 +89,8 @@ behind its remote counterpart. Integrate (e.g. git push etc...) and try
 again.'
 
 
+Was able to push a modified file using the LATEST commit from GitHub.
+However, if you try doing the same process with a commit older than the
+latest you get the 'Failed to push .....' error.
+
+
