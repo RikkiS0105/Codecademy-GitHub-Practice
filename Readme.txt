@@ -93,4 +93,6 @@ Was able to push a modified file using the LATEST commit from GitHub.
 However, if you try doing the same process with a commit older than the
 latest you get the 'Failed to push .....' error.
 
+Now learning branching in GitHub. Lets see if able to resolve the earlier
+push conflict using branching.
 
