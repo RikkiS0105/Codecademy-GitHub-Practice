@@ -96,3 +96,11 @@ latest you get the 'Failed to push .....' error.
 Now learning branching in GitHub. Lets see if able to resolve the earlier
 push conflict using branching.
 
+When I opened this filee, the previous line 'Adding this line to master 
+branch' was not there because this file is in the Learning_Branching 
+branch and that line was added to the readme.txt file in the master 
+branch.
+
+File with 'Add this line to master branch xxxx' committed to GitHub Repo
+
+Anyway, adding this line to the Learning_Branching Branch.
